@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.stringmanipulation.medium;
+package io.nimbus.hackerrank.interviewperparationkit.stringmanipulation.medium;
 
 import java.util.Iterator;
 import java.util.Map;

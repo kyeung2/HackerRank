@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.stringmanipulation.easy;
+package io.nimbus.hackerrank.interviewperparationkit.stringmanipulation.easy;
 
 import java.util.Map;
 import java.util.function.Function;
