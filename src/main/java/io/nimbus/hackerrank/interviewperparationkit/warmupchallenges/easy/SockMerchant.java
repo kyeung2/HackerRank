@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.interviewperparationkit.warmupchallenges;
+package io.nimbus.hackerrank.interviewperparationkit.warmupchallenges.easy;
 
 import java.util.HashMap;
 import java.util.Map;
