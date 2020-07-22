@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.interviewperparationkit.miscellaneous;
+package io.nimbus.hackerrank.interviewperparationkit.miscellaneous.easy;
 
 import java.util.Arrays;
 
