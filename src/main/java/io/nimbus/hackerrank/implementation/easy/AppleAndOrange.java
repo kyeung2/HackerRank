@@ -2,6 +2,9 @@ package io.nimbus.hackerrank.implementation.easy;
 
 import java.util.stream.IntStream;
 
+/**
+ * https://www.hackerrank.com/challenges/apple-and-orange/problem
+ */
 public class AppleAndOrange {
 
     // Complete the countApplesAndOranges function below.
