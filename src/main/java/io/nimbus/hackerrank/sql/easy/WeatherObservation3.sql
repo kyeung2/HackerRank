@@ -1,0 +1,2 @@
+# https://www.hackerrank.com/challenges/weather-observation-station-3/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+SELECT distinct CITY FROM STATION s WHERE (s.ID % 2) = 0 and s.LAT_N > 0 and s.LONG_W > 0;
