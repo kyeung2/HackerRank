@@ -1,0 +1,12 @@
+https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-1/problem
+
+You are given two sets.
+ Set A = {1,2,3,4,5,6}
+ Set B = {2,3,4,5,6,7,8}
+
+ How many elements are present in A U B?
+ 8
+
+ explanation
+ - all elements in A or B
+ {1,2,3,4,5,6,7,8}

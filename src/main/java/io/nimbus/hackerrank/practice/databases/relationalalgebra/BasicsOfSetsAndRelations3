@@ -1,0 +1,12 @@
+https://www.hackerrank.com/challenges/basics-of-sets-and-relational-algebra-3/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen
+You are given two sets.
+Set A = {1,2,3,4,5,6}
+Set B = {2,3,4,5,6,7,8}
+
+How many elements are present in A - B?
+1
+
+explanation
+- the element 1 remains
+{1}
+
