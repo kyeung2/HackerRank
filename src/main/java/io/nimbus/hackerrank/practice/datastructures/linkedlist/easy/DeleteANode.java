@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.practice.datastructures.linkedlist;
+package io.nimbus.hackerrank.practice.datastructures.linkedlist.easy;
 
 /**
  * https://www.hackerrank.com/challenges/delete-a-node-from-a-linked-list/problem?h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen&h_r=next-challenge&h_v=zen

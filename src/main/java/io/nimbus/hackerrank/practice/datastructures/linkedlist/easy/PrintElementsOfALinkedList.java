@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.practice.datastructures.linkedlist;
+package io.nimbus.hackerrank.practice.datastructures.linkedlist.easy;
 
 /**
  * https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem

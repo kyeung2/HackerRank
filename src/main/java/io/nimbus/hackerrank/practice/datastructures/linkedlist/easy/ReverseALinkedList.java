@@ -1,4 +1,4 @@
-package io.nimbus.hackerrank.practice.datastructures.linkedlist;
+package io.nimbus.hackerrank.practice.datastructures.linkedlist.easy;
 
 import java.util.Stack;
 
