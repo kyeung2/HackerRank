@@ -1,5 +1,7 @@
 package io.nimbus.hackerrank.practice.datastructures.linkedlist.easy;
 
+import io.nimbus.hackerrank.practice.datastructures.linkedlist.SinglyLinkedListNode;
+
 /**
  * https://www.hackerrank.com/challenges/print-the-elements-of-a-linked-list/problem
  */
